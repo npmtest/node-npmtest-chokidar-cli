@@ -1,6 +1,6 @@
 # npmtest-chokidar-cli
 
-#### test coverage for  [chokidar-cli (v1.2.0)](https://github.com/kimmobrunfeldt/chokidar-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-chokidar-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chokidar-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chokidar-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-chokidar-cli)
+#### basic test coverage for  [chokidar-cli (v1.2.0)](https://github.com/kimmobrunfeldt/chokidar-cli)  [![npm package](https://img.shields.io/npm/v/npmtest-chokidar-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chokidar-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chokidar-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-chokidar-cli)
 
 #### Ultra-fast cross-platform command line utility to watch file system changes.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-chokidar-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-chokidar-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-chokidar-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-chokidar-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-chokidar-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-chokidar-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-chokidar-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-chokidar-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-chokidar-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-chokidar-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-chokidar-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-chokidar-cli/build/coverage.html/index.html)
 
